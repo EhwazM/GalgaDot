@@ -8,7 +8,7 @@ int adc0;
 float volt;
 
 int tare_pin = 17;
-int mean_n = 10;
+int mean_n = 100;
 
 bool first = true;
 
